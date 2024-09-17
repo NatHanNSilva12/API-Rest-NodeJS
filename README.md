@@ -48,6 +48,7 @@ O servidor estará disponível em `http://localhost:3000`.
   "year": 1954,
   "genre": "Fantasia"
 }
+```
 
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar um problema.
